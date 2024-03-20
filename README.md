@@ -1,2 +1,2 @@
-# E.L.I.O.T.
+# E.L.I.O.T
 Virtual Voice Assistant by Passion-Lab
